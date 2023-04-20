@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Tiffany<br>🌍  I'm based in Melbourne, Australia<br> ✉️  You can contact me at [b0023060@gmail.com]<br> 🧠  I'm learning React framework<br> 🤝  I'm open to collaborating on web develop and design<br> ⚡  Fun fact- I was a chemical engineer and language teacher
+👋 Hi, my name is Tiffany<br>🌍  I'm based in Melbourne, Australia<br> ✉️  You can contact me at [b0023060@gmail.com]<br> 💻 My Profolio site:[https://tiffanyleecodes.github.io/] <br /> 🧠  I'm learning React framework<br> 🤝  I'm open to collaborating on web develop and design<br> ⚡  Fun fact- I was a chemical engineer and language teacher 
 
 
 ## 🌐 Socials:
